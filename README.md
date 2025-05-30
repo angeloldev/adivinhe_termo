@@ -1,4 +1,5 @@
 # Jogo da Forca - Projeto de OO
+Ângelo Araujo Cordova - 241025917
 
 ## Definição do Problema
 
