@@ -1,4 +1,4 @@
-# Jogo da Forca - Projeto de OO (UnB Gama - 01/2025)
+# Jogo da Forca - Projeto de OO
 
 ## Definição do Problema
 
